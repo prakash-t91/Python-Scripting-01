@@ -1,4 +1,11 @@
 #!/usr/bin/env python3
+#############################################
+#Script Name: system_monitoring.py
+#Description: Monitors CPU, Memory, and Disk usage. Sends email alerts if thresholds are exceeded.
+#Author: Prakash T P
+#Date: 2024-06-15
+#Version: 1.0
+#############################################
 
 import psutil
 import shutil
